@@ -1,4 +1,6 @@
-package ua.com.mateacademy;public class Main {
+package ua.com.mateacademy;
+
+public class Main {
     public static void main(String[] args) {
         System.out.println("Hello mates!");
     }
